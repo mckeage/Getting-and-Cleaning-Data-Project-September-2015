@@ -1,0 +1,15 @@
+Variable Descriptions
+
+"SubNo" - Subject Number
+"Activity" - Activity Measured, coded as follows
+  1 WALKING
+  2 WALKING_UPSTAIRS
+  3 WALKING_DOWNSTAIRS
+  4 SITTING
+  5 STANDING
+  6 LAYING
+
+Measures - these are all from standardized variables, so they are standardized means of each subject on each activity
+  "tBodyAccmeanX" through "fBodyBodyGyroJerkMagstd" 
+  
+"Activity_Name" - string variable label for the activity corresponding to the above coding
